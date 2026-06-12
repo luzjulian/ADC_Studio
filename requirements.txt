@@ -1,7 +1,0 @@
-customtkinter
-sounddevice
-numpy
-scipy
-pydub
-matplotlib
-audioop-lts
